@@ -1,0 +1,6 @@
+{
+  "name": "Blank Spaces - Minimalist Android Launcher",
+  "description": "Minimalist text-only Android home-screen launcher inspired by Blank Spaces, featuring an interactive live simulator and comprehensive Kotlin/Jetpack Compose implementation codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
